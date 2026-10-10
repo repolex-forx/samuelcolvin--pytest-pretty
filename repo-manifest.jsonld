@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/pytest-pretty/commit/6233b5ab95308a1dba68198492c2705efe387ede",
       "git:hexsha": "6233b5ab95308a1dba68198492c2705efe387ede",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.3.0"
     },
     {
