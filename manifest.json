@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "pytest-pretty",
+  "versions": [
+    {
+      "commit": "6233b5ab95308a1dba68198492c2705efe387ede",
+      "parsed_at": "2026-10-10T22:11:56.448075+00:00",
+      "tag": "v1.3.0",
+      "filetree": "filetree/6233b5ab95308a1dba68198492c2705efe387ede.nq.gz",
+      "blobs": [
+        "blob/4e6405832874d9509a0c2c226c2fe2b9c9c0c55c.nq.gz",
+        "blob/47de40dc06ba673d480a12ef728ce62fe43e3151.nq.gz",
+        "blob/33f73dcbe1e49f7498ed6506915941c93e818e70.nq.gz",
+        "blob/db4683a1560f6893b552c687622b0f734941a834.nq.gz",
+        "blob/ac973c96a96d631f00cb9278b81850aa359029cf.nq.gz",
+        "blob/ed5d36479cf4c88e1f4ca896d0989e68a297cb43.nq.gz",
+        "blob/52eb11cb4d6f0279936282ac8018e2c7d8fea982.nq.gz",
+        "blob/7e4248fab6d84f3a1da1b3ff07937275bb78b858.nq.gz",
+        "blob/3587e90e827ed041a7e990523a5ed2ab9e5660af.nq.gz",
+        "blob/597bc0eedab645a799a1ef3bff5822ae2d434de8.nq.gz",
+        "blob/570f6f79b423ecf5d53c2bf581ade93e1f8bec9a.nq.gz",
+        "blob/cdd6d45a4f704d3d1b3e3ed0d3f23d451c839bc4.nq.gz",
+        "blob/8cc5ad8eeff6908033122e5f9daaeb5ca1de4932.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
