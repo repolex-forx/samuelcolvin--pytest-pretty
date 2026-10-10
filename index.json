@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "pytest-pretty",
+  "versions": [
+    {
+      "commit": "6233b5ab95308a1dba68198492c2705efe387ede",
+      "tag": "v1.3.0",
+      "parsed_at": "2026-10-10T22:14:48.575441+00:00"
+    }
+  ]
+}
