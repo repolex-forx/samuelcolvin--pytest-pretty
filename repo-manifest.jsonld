@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/pytest-pretty/commit/6233b5ab95308a1dba68198492c2705efe387ede",
       "git:hexsha": "6233b5ab95308a1dba68198492c2705efe387ede",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.3.0",
+      "repolex:parsedAt": "2026-10-10T22:14:48.574941+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/pytest-pretty/commit/e8ec1cda53929fa61b1111b6e411ad1d3c114a41",
